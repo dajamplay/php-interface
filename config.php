@@ -1,4 +1,10 @@
 <?php
 
-
-//TODO Заполнить конфиг
+$config = [
+    'db' => [
+        'host'     => '',
+        'dbname'   => '',
+        'user'     => '',
+        'password' => '',
+    ]
+];
