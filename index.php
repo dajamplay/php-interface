@@ -12,3 +12,5 @@ $paymentService = new \app\PaymentService();
 
 $paymentService->payment(new PayPal());
 $paymentService->payment($webmoney);
+
+//TODO tests
